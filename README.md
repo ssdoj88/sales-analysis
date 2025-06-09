@@ -5,12 +5,10 @@ This project analyzes sales data for AAL (American Airlines) using Python. The a
 ## Project Structure
 
 ```
-.
 ├── README.md
 ├── requirements.txt
 ├── AAL.csv
 ├── sales_analysis.ipynb
-└── sales_analysis.py
 ```
 
 ## Setup Instructions
